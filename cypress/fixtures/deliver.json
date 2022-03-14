@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name":"Erick Garcia",
+        "cpf":"00000223654",
+        "email":"ericktest@gmail.com",
+        "cellphone":"1199999999",
+        "address":{
+            "postalcode":"14409000",
+            "street":"Rua Jonas Rodrigues de Moura",
+            "number":"1020",
+            "details":"casa",
+            "district":"Jardim Barão",
+            "city_uf":"Franca/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"    
+    },
+    "cpf_inv":{
+        "name":"João Pedro",
+        "cpf":"000002236asdtg",
+        "email":"joaotest@gmail.com",
+        "cellphone":"1199999999",
+        "address":{
+            "postalcode":"14409000",
+            "street":"Rua Jonas Rodrigues de Moura",
+            "number":"1020",
+            "details":"casa",
+            "district":"Jardim Barão",
+            "city_uf":"Franca/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg" 
+    },
+    "email_inv": {
+        "name":"Maria Silva",
+        "cpf":"00000223654",
+        "email":"erick.com",
+        "cellphone":"1199999999",
+        "address":{
+            "postalcode":"14409000",
+            "street":"Rua Jonas Rodrigues de Moura",
+            "number":"1020",
+            "details":"casa",
+            "district":"Jardim Barão",
+            "city_uf":"Franca/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"    
+    }
+}
